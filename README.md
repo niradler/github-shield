@@ -1,4 +1,4 @@
-# Proxy Shield for Self-Hosted GitHub Server
+# Proxy Shield for GitHub Server
 
 ## Overview
 In today’s interconnected software ecosystem, protecting self-hosted infrastructure is more critical than ever. Proxy Shield provides a layer of security for self-hosted GitHub Enterprise servers by placing a secure, inspectable, and configurable proxy in front of vendor access. This ensures that no external access bypasses your organization’s security policies, giving you control over what happens within your environment.
